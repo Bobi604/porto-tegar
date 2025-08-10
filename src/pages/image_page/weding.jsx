@@ -1,6 +1,6 @@
 import W1 from "../../assets/img/wedding/2.jpg";
-import W2 from "../../assets/img/wedding/3.jpg";
-import W3 from "../../assets/img/wedding/4.jpg";
+import W2 from "../../assets/img/wedding/3.JPG";
+import W3 from "../../assets/img/wedding/4.JPG";
 import W4 from "../../assets/img/wedding/1.png";
 import W5 from "../../assets/img/wedding/0.jpg";
 export const Wedding = () => {
@@ -19,7 +19,10 @@ export const Wedding = () => {
         <div className="relative z-10 max-w-2xl text-white">
           <h2 className="text-3xl md:text-5xl font-bold mb-4">Wedding</h2>
           <p className="text-sm md:text-base">
-            Capturing the sacred moments of a wedding with an artistic touch that blends visual beauty and genuine emotion. Each shot tells a story—preserving details, smiles, and meaningful glances—to create timeless memories to cherish forever
+            Capturing the sacred moments of a wedding with an artistic touch
+            that blends visual beauty and genuine emotion. Each shot tells a
+            story—preserving details, smiles, and meaningful glances—to create
+            timeless memories to cherish forever
           </p>
         </div>
       </div>
