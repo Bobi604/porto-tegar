@@ -2,7 +2,7 @@ import T1 from "../../assets/video/aerial/TES.mp4";
 import T2 from "../../assets/img/travel/1.jpg";
 import T3 from "../../assets/img/travel/2.jpg";
 import T4 from "../../assets/img/travel/8.jpg";
-import T5 from "../../assets/img/travel/7.jpg";
+import T5 from "../../assets/img/travel/7.JPG";
 export const Travel = () => {
   return (
     <section id="travel" className="bg-white pb-10">
